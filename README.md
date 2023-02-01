@@ -1,6 +1,6 @@
 # AI3603-Artificial-Intelligence-Principles-and-Technique
 
-This is my repository of AI3603, IEEE Honor Class, SJTU.
+This is my repository of Fall 2022, AI3603, IEEE Honor Class, SJTU.
 
 My lecturer is Yue Gao.
 
